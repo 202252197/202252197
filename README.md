@@ -35,8 +35,6 @@
 ![FairyWorld's github stats](https://github-readme-stats.vercel.app/api?username=202252197&show_icons=true&include_all_commits=true&count_private=true&line_height=28&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=202252197&layout=compact&langs_count=12&theme=vue-dark&line_height=28)
 
-[![FairyWorld's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=202252197&theme=dracula)](https://github.com//202252197/ChatGPT_JCM)
-
 
 
 ![Visitor Count](https://profile-counter.glitch.me/202252197/count.svg)
