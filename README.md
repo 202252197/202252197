@@ -22,24 +22,3 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=202252197&column=7&theme=gruvbox&no-frame=true"/>
 </a>
 
-
-
-![FairyWorld's github stats](https://github-readme-stats.vercel.app/api?username=202252197&show_icons=true&include_all_commits=true&count_private=true&line_height=28&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=202252197&layout=compact&langs_count=12&theme=vue-dark&line_height=28)
-
-
-
-<p align="left">
-<a href="https://github.com/202252197/ChatGPT_JCM" ><img src="https://img.shields.io/github/stars/202252197/202252197" /></a>
-<a href="https://github.com/202252197/ChatGPT_JCM" ><img src="https://img.shields.io/github/last-commit/202252197/202252197" /></a>
-<a href="https://github.com/202252197/ChatGPT_JCM" ><img src="https://img.shields.io/github/release/202252197/202252197" /></a>
-<a href="https://github.com/202252197/ChatGPT_JCM" ><img src="https://img.shields.io/github/downloads/202252197/202252197/total" /></a>
-<a href="https://github.com/202252197/ChatGPT_JCM" ><img src="https://img.shields.io/github/license/202252197/202252197" /></a>
-</p>
-
-
-
-
-![Visitor Count](https://profile-counter.glitch.me/202252197/count.svg)
-
-
