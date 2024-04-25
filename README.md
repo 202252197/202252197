@@ -1,12 +1,8 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=5330F7&background=FFFFFF00&center=%E7%9C%9F&vCenter=%E5%81%87&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=Welcome+to+my+github)](https://git.io/typing-svg)
-<div align="center">
-
 <!-- dynamic typing effect 动态打字效果 -->
 <div>
 <a href="https://blog.sunguoqi.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=5330F7&background=FFFFFF00&center=%E7%9C%9F&vCenter=%E5%81%87&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=Hi%2C+my+nickname+is+jun+chen+mo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=console.log(Hi%2C+my+nickname+is+jun+chen+mo);Welcome+to+my+github!&center=true&size=25" />
 </a>
 </div>
 
