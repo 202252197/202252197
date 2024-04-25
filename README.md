@@ -19,5 +19,5 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=202252197&row=1&column=6)](https://github.com/202252197/ChatGPT-JCM)
+[![trophy](https://github-profile-trophy.vercel.app/?username=202252197&row=1&column=7)](https://github.com/202252197/ChatGPT-JCM)
 
