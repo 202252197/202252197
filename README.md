@@ -2,7 +2,7 @@
 <!-- dynamic typing effect 动态打字效果 -->
 <div>
 <a href="https://blog.sunguoqi.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=console.log(Hi%2C+my+nickname+is+jun+chen+mo);Welcome+to+my+github!&center=true&size=25" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=console.log(%Hi%2C+my+nickname+is+jun+chen+mo);Welcome+to+my+github!&center=true&size=25" />
 </a>
 </div>
 
