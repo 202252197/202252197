@@ -1,4 +1,4 @@
-### Hi/你好 👋 My Name is Jun Chen Mo
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=5330F7&background=FFFFFF00&center=%E7%9C%9F&vCenter=%E5%81%87&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=Hi%2C+my+nickname+is+jun+chen+mo;Welcome+to+my+github)](https://git.io/typing-svg)
 
 🔭  欢迎光临我的小窝  🏗🚧👷‍♂️
 
