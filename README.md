@@ -1,4 +1,4 @@
-<div align="center" style="background:red">
+<div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <div >
     <a href="https://202252197.github.io/">
